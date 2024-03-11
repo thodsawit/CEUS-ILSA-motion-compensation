@@ -2,12 +2,12 @@
 
 ## Authors
 
-Stylianos (Stelios) Serghiou, Eirini Tsekitsidou
+Thodsawit Tiyarattanachai
 
 
 ## Publication
 
-When we have the preprint or publication, we will post the link here!
+Tiyarattanachai T, Turco S, Eisenbrey JR, Wessner CE, Medellin-Kowalewski A, Wilson S, Lyshchik A, Kamaya A, Kaffas AE. A Comprehensive Motion Compensation Method for In-Plane and Out-of-Plane Motion in Dynamic Contrast-Enhanced Ultrasound of Focal Liver Lesions. Ultrasound Med Biol. 2022 Nov;48(11):2217-2228. doi: 10.1016/j.ultrasmedbio.2022.06.007. Epub 2022 Aug 13. PMID: 35970658; PMCID: PMC9529818.
 
 
 ## File structure
