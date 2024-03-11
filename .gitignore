@@ -2,6 +2,7 @@
 data
 outputs
 publication
+.ipynb_checkpoints
 
 # Files
 data.zip
