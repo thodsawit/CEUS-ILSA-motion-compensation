@@ -2,7 +2,7 @@
 data
 outputs
 publication
-unshared_codes
+unshared-code
 .ipynb_checkpoints
 
 # Files
