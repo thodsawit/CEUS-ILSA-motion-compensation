@@ -3,6 +3,9 @@ data
 outputs
 publication
 
+# Files
+data.zip
+
 # R files
 .Rhistory
 .Rproj.user
